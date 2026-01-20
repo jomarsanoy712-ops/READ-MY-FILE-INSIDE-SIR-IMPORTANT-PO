@@ -1,6 +1,6 @@
 # joms
-my repository for computer programming
-changes
+my repository for computer programming.
+I love
 chicken
-inasal
+inasal with
 chicken oil
